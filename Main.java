@@ -24,11 +24,21 @@ public class Main {
 //        vowelorConsonant.output();
 //        System.out.println(vowelorConsonant.display());
 
-        System.out.println();
-        System.out.print("Enter a character: ");
-        char letter = sc.next().charAt(0);
-        Character character = new Character(letter);
-        character.output();
+//        System.out.println();
+//        System.out.print("Enter a character: ");
+//        char letter = sc.next().charAt(0);
+//        Character character = new Character(letter);
+//        character.output();
+
+//        System.out.println();
+//        GreaterNumber greaterNumber = new GreaterNumber();
+//        System.out.print("Enter a number: ");
+//        greaterNumber.setNumber1(sc.nextInt());
+//        System.out.print("Enter a number: ");
+//        greaterNumber.setNumber2(sc.nextInt());
+//        greaterNumber.output();
+//        System.out.println(greaterNumber.display());
+
 
 
 
